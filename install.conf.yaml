@@ -1,0 +1,18 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+#- link:
+#    ~/.dotfiles: '' remember I added this did not appear in the latest version of repo
+#    ~/.tmux.conf: tmux.conf
+#    ~/.vim: vim
+#    ~/.vimrc: vimrc
+
+- create:
+    - ~/Work
+    - ~/hey/you/guys
+
+#- shell:
+#  - [git submodule update --init --recursive, Installing submodules]
