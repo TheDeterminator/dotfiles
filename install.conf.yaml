@@ -4,11 +4,10 @@
 
 - clean: ['~']
 
-#- link:
-#    ~/.dotfiles: '' remember I added this did not appear in the latest version of repo
-#    ~/.tmux.conf: tmux.conf
+- link:
 #    ~/.vim: vim
 #    ~/.vimrc: vimrc
+     ~/.zshrc: zshrc
 
 - create:
     - ~/Work
