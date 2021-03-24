@@ -11,3 +11,4 @@ I'm learning about dotfiles at Patrick McDonald's course
 6. Trackpad (three finger Drag and Tap to click)
 7. .zshrc
 8. Git (config and ssh)
+9. Homebrew Install
