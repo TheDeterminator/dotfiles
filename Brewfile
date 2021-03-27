@@ -1,0 +1,32 @@
+# Taps (repositories)
+tap "heroku/brew"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+# Brews (packages)
+brew "autoconf"
+brew "automake"
+brew "bat"
+brew "coreutils"
+brew "emacs"
+brew "readline"
+brew "sqlite"
+brew "httpie"
+brew "libksba"
+brew "libtool"
+brew "libyaml"
+brew "node"
+brew "pipenv"
+brew "portmidi"
+brew "postgresql"
+brew "ruby"
+brew "wget"
+brew "yarn"
+brew "heroku/brew/heroku"
+brew "exa"
+
+# Casks (Applications)
+cask "google-chrome"
+cask "visual-studio-code"
+cask "dropbox"
