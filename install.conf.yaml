@@ -9,6 +9,10 @@
 #    ~/.vimrc:
      ~/.zshrc:
      ~/.gitconfig:
+    #  may want to think about adding the whole config directory here
+     ~/.config/bat:
+        create: true
+        path: bat
 
 - create:
     - ~/Work
